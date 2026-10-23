@@ -1,0 +1,24 @@
+Gladys Porsche Connect integration
+Copyright 2026 William Deren
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+The Porsche Connect client (src/porsche/, src/vehicle.js, src/commands.js) is
+a JavaScript rewrite after pyporscheconnectapi, Copyright Johan Isacsson and
+contributors, licensed under the MIT License
+(https://github.com/CJNE/pyporscheconnectapi), and its Home Assistant
+integration ha-porscheconnect, Copyright CJNE and contributors, MIT License
+(https://github.com/CJNE/ha-porscheconnect). The sign-in steps, endpoints,
+client identifiers, measurement and command names come from them; the
+behaviour was cross-checked with the Porsche client of evcc (MIT License,
+https://github.com/evcc-io/evcc). No code is copied.
+
+The captcha of the Porsche sign-in is drawn with resvg (@resvg/resvg-wasm),
+Copyright the resvg authors, licensed under the Mozilla Public License 2.0
+(https://github.com/yisibl/resvg-js), used unmodified.
+
+Porsche, Porsche Connect, My Porsche, Taycan, Macan, Cayenne, Panamera and
+911 are trademarks of Dr. Ing. h.c. F. Porsche AG. This community integration
+is not affiliated with, endorsed or sponsored by Porsche. It uses the servers
+of the My Porsche app, which have no public documentation and may change at
+any time.
