@@ -5,6 +5,12 @@ follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and versions
 follow [Semantic Versioning](https://semver.org/). This file is generated at
 each release from the Conventional Commits: do not edit it by hand.
 
+## [0.1.1] - 2026-10-24
+
+### Security
+
+- **security:** build the image on Node.js 24.22.1 or later ([a7ea61f](https://github.com/William-De71/gladys-porsche-connect/commit/a7ea61fbafd728f9db6bdd2092b944f6cf91de74))
+
 ## [0.1.0] - 2026-10-23
 
 ### Added
@@ -18,4 +24,5 @@ each release from the Conventional Commits: do not edit it by hand.
 - A Diagnostic button that writes what each car reports to the logs, without VIN nor position.
 - English, French, German and Spanish everywhere: settings, devices, widgets, scenes and documentation.
 
+[0.1.1]: https://github.com/William-De71/gladys-porsche-connect/compare/v0.1.0...v0.1.1
 [0.1.0]: https://github.com/William-De71/gladys-porsche-connect/releases/tag/v0.1.0
