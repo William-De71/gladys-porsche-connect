@@ -1,6 +1,6 @@
 {
   "name": "gladys-porsche-connect",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "private": true,
   "description": "External Gladys Assistant integration for Porsche cars (Porsche Connect): battery, fuel, range, charge, lock, openings, climate, position, scenes and a dashboard widget.",
   "homepage": "https://github.com/William-De71/gladys-porsche-connect",
