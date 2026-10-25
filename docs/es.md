@@ -12,7 +12,7 @@ La integración lee lo último que el coche envió a Porsche, cada 15 minutos po
 
 ## Requisitos previos
 
-- Gladys Assistant 5.2.0 o posterior (el formulario del captcha en el widget lo necesita).
+- Gladys Assistant 5.3.0 o posterior (el formulario del captcha en el widget lo necesita).
 - Un coche con un contrato **Porsche Connect** activo (Taycan, Macan eléctrico, 911 desde el 992, 718, Panamera desde 2021, Cayenne desde 2017), y el correo y la contraseña de la cuenta My Porsche.
 - El PIN de 4 cifras de la app My Porsche, solo para abrir el coche desde Gladys.
 - El widget **Porsche** en un panel: Porsche pide a veces un captcha al iniciar sesión, y es en el widget donde usted lo escribe.

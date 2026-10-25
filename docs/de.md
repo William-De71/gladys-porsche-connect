@@ -12,7 +12,7 @@ Die Integration liest, was das Fahrzeug zuletzt an Porsche gesendet hat, standar
 
 ## Voraussetzungen
 
-- Gladys Assistant 5.2.0 oder neuer (das Captcha-Formular des Widgets braucht es).
+- Gladys Assistant 5.3.0 oder neuer (das Captcha-Formular des Widgets braucht es).
 - Ein Fahrzeug mit aktivem **Porsche-Connect**-Vertrag (Taycan, Macan Electric, 911 ab dem 992, 718, Panamera ab 2021, Cayenne ab 2017) sowie E-Mail und Passwort des My-Porsche-Kontos.
 - Die 4-stellige PIN der My-Porsche-App, nur zum Entriegeln aus Gladys.
 - Das Widget **Porsche** auf einem Dashboard: Porsche verlangt bei der Anmeldung manchmal ein Captcha, und im Widget gibst du es ein.

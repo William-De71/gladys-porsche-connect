@@ -12,7 +12,7 @@ The integration reads what the car last sent to Porsche, every 15 minutes by def
 
 ## Prerequisites
 
-- Gladys Assistant 5.2.0 or later (the captcha form of the widget needs it).
+- Gladys Assistant 5.3.0 or later (the captcha form of the widget needs it).
 - A car with an active **Porsche Connect** contract (Taycan, Macan Electric, 911 from the 992, 718, Panamera from 2021, Cayenne from 2017), and the e-mail and password of the My Porsche account.
 - The 4-digit PIN of the My Porsche app, only to unlock the car from Gladys.
 - The **Porsche** widget on a dashboard: Porsche sometimes asks for a captcha at the sign-in, and the widget is where you type it.

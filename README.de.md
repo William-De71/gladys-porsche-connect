@@ -5,7 +5,7 @@
 [![Lizenz: Apache-2.0](https://img.shields.io/badge/Lizenz-Apache--2.0-blue.svg)](LICENSE)
 [![Neueste Version](https://img.shields.io/github/v/release/William-De71/gladys-porsche-connect?sort=semver)](https://github.com/William-De71/gladys-porsche-connect/releases)
 [![CI](https://img.shields.io/github/actions/workflow/status/William-De71/gladys-porsche-connect/release.yml?branch=main&label=CI)](https://github.com/William-De71/gladys-porsche-connect/actions/workflows/release.yml)
-[![Gladys](https://img.shields.io/badge/Gladys-%E2%89%A5%205.2.0-2f6fb5)](https://gladysassistant.com)
+[![Gladys](https://img.shields.io/badge/Gladys-%E2%89%A5%205.3.0-2f6fb5)](https://gladysassistant.com)
 
 ![Porsche Connect für Gladys Assistant](cover.jpg)
 
@@ -91,7 +91,7 @@ Beispiele:
 
 ## Voraussetzungen
 
-- Gladys Assistant **5.2.0** oder neuer (das Captcha-Formular des Widgets): Ältere Instanzen können die Integration nicht installieren.
+- Gladys Assistant **5.3.0** oder neuer (das Captcha-Formular des Widgets, der Katalog mit Schlüsselwörtern/Ländern von Gladys 5.3): Ältere Instanzen können die Integration nicht installieren.
 - Ein Porsche mit aktivem Porsche-Connect-Vertrag (Taycan, Macan Electric, 911 ab dem 992, 718, Panamera ab 2021, Cayenne ab 2017) und das Konto der My-Porsche-App.
 - Das Widget **Porsche** auf einem Dashboard, um ein Captcha zu beantworten.
 
