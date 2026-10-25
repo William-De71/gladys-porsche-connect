@@ -47,7 +47,7 @@ test('declares the cloud transport only: everything goes through the Porsche ser
 test('requires Gladys 5.2.0 for the captcha form of the widget; houses for the home radius', () => {
   assert.equal(manifest.gladys_version, '>=5.2.0');
   assert.match(source('../src/widgets.js'), /fields:/, 'the widget button form needs 5.2.0');
-  assert.deepEqual(manifest.categories, ['energy', 'security']);
+  assert.deepEqual(manifest.categories, ['vehicles']);
   assert.equal(manifest.location, true);
   for (const key of ['network_wake', 'containers', 'network_discovery', 'webhooks']) {
     assert.equal(manifest[key], undefined, key);
